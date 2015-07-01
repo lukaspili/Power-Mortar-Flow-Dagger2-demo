@@ -6,8 +6,8 @@ import android.widget.FrameLayout;
 
 import com.lukaspili.powermortardemo.app.DaggerService;
 import com.lukaspili.powermortardemo.app.presenter.LoginPresenter;
-import com.lukaspili.powermortardemo.app.presenter.LoginScreen;
-import com.lukaspili.powermortardemo.app.presenter.LoginScreenComponent;
+import com.lukaspili.powermortardemo.app.presenter.screen.LoginScreen;
+import com.lukaspili.powermortardemo.app.presenter.screen.LoginScreenComponent;
 import com.lukaspili.powermortardemo.mortar.ScreenScoper;
 
 import javax.inject.Inject;

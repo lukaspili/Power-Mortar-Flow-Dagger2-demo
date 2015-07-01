@@ -7,6 +7,7 @@ import com.lukaspili.powermortardemo.R;
 import com.lukaspili.powermortardemo.app.AppDependencies;
 import com.lukaspili.powermortardemo.app.DaggerScope;
 import com.lukaspili.powermortardemo.app.adapter.PostAdapter;
+import com.lukaspili.powermortardemo.app.presenter.screen.ViewPostScreen;
 import com.lukaspili.powermortardemo.flow.Layout;
 import com.lukaspili.powermortardemo.model.Post;
 import com.lukaspili.powermortardemo.rest.RestClient;

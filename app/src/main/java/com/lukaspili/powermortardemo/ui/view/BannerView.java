@@ -8,7 +8,7 @@ import android.widget.LinearLayout;
 import com.lukaspili.powermortardemo.R;
 import com.lukaspili.powermortardemo.app.DaggerService;
 import com.lukaspili.powermortardemo.app.presenter.ViewPostPresenter;
-import com.lukaspili.powermortardemo.app.presenter.ViewPostScreenComponent;
+import com.lukaspili.powermortardemo.app.presenter.screen.ViewPostScreenComponent;
 
 import javax.inject.Inject;
 

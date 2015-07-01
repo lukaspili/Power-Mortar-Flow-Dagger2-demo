@@ -12,7 +12,7 @@ import com.lukaspili.powermortardemo.app.DaggerScope;
 import com.lukaspili.powermortardemo.app.DaggerService;
 import com.lukaspili.powermortardemo.app.MortarDemoApp;
 import com.lukaspili.powermortardemo.app.MortarDemoAppComponent;
-import com.lukaspili.powermortardemo.app.presenter.PostsScreen;
+import com.lukaspili.powermortardemo.app.presenter.screen.PostsScreen;
 import com.lukaspili.powermortardemo.flow.GsonParceler;
 import com.lukaspili.powermortardemo.flow.HandlesBack;
 

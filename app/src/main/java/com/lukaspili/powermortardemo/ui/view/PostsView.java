@@ -9,7 +9,7 @@ import android.widget.ProgressBar;
 import com.lukaspili.powermortardemo.R;
 import com.lukaspili.powermortardemo.app.DaggerService;
 import com.lukaspili.powermortardemo.app.presenter.PostsPresenter;
-import com.lukaspili.powermortardemo.app.presenter.PostsScreenComponent;
+import com.lukaspili.powermortardemo.app.presenter.screen.PostsScreenComponent;
 
 import javax.inject.Inject;
 
@@ -56,6 +56,7 @@ public class PostsView extends LinearLayout {
 
     @Override
     protected void onFinishInflate() {
+        super.onFinishInflate();
         ButterKnife.inject(this);
     }
 }
