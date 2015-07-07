@@ -30,6 +30,19 @@ See the difference!
 - Additional custom view injected to screen : `BannerView`
 
 
+## You may also want to check out
+
+### Mortar Architect
+
+Navigation stack for Mortar. Alternative to Flow. Focuses on Mortar scopes, simplicity, seamless integration and killing boilerplate code.  
+[https://github.com/lukaspili/Mortar-architect](https://github.com/lukaspili/Mortar-architect)
+
+### Mortar architect map demo
+
+Demo application with Mortar / Dagger2 / Mortar architect. Showcase MapView and DrawerLayout.  
+[https://github.com/lukaspili/Mortar-architect-map-demo](https://github.com/lukaspili/Mortar-architect-map-demo)
+
+
 ## Author
 
 - Lukasz Piliszczuk ([@lukaspili](https://twitter.com/lukaspili))
